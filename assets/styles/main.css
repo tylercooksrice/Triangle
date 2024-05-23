@@ -1,0 +1,21 @@
+.triangle {
+    background-color: gray;
+    text-align: center;
+    font-size: 52px;
+    color:darkblue;
+}
+
+.emblem {
+
+}
+
+.navbar {
+    background-color: gold;
+    color: white;
+    font-weight: bold;
+    border: solid 1px black;
+    border-radius: 10px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
