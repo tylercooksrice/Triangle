@@ -1,6 +1,8 @@
 @font-face {
     font-family: "figtree";
-    src: url(Figtree-VariableFont_wght.ttf);
+    src: url(fonts/Figtree-VariableFont_wght.ttf);
+    font-weight: normal;
+    font-style: normal;
 }
 
 * {
@@ -23,11 +25,13 @@
 }
 
 .navbar {
+    position: relative;
     overflow: hidden;    
     background-color: gold;
 }
 
 .navbar a{
+    position: sticky;
     float: left;
     font-weight: bold;
     text-align: center;
@@ -40,4 +44,14 @@
 .navbar a:hover {
     background-color: blue;
     color: black;
+}
+
+.values {
+    color:white;
+    padding: 10px 10px 10px 20px;
+    margin: 40px 40px 40px 40px;
+    width: 1200px;
+    height: 400px;
+    background-color: gainsboro;
+    
 }
