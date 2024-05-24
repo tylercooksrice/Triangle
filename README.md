@@ -1,3 +1,3 @@
 # Triangle
 
-[Triangle](https://tylercooksrice.github.io/Triangle/src/).
+[Triangle](https://tylercooksrice.github.io/Triangle/src/)
