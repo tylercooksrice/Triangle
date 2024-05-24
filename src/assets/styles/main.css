@@ -1,0 +1,43 @@
+@font-face {
+    font-family: "figtree";
+    src: url(Figtree-VariableFont_wght.ttf);
+}
+
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+  }
+  
+.triangle {
+    background-color: gray;
+    text-align: center;
+    font-size: 52px;
+    color:darkblue;
+    margin: 0px 0px 0px 0px;
+    padding-bottom:10px;
+}
+
+.emblem {
+     
+}
+
+.navbar {
+    overflow: hidden;    
+    background-color: gold;
+}
+
+.navbar a{
+    float: left;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    padding: 14px 20px;
+    font-size: 17px;
+}
+
+.navbar a:hover {
+    background-color: blue;
+    color: black;
+}
